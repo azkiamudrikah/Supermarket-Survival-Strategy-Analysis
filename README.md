@@ -1,0 +1,3 @@
+Supermarket Survival Strategy Analysis adalah proyek analisis data yang bertujuan untuk mengidentifikasi faktor-faktor kunci yang dapat meningkatkan penjualan dan profit, guna mencegah penutupan gerai supermarket di tengah perubahan perilaku konsumen pasca pandemi. Analisis mencakup identifikasi kategori barang dengan tingkat penjualan tertinggi untuk memaksimalkan efisiensi pengadaan barang, metode pembayaran yang paling diminati untuk meningkatkan kenyamanan transaksi, serta faktor-faktor lain yang berkontribusi terhadap performa bisnis supermarket.  
+
+Hasil analisis ini dirancang untuk menjadi panduan strategis bagi divisi pengadaan barang dan divisi marketing dalam mengembangkan inovasi dan strategi bisnis yang berkelanjutan.
