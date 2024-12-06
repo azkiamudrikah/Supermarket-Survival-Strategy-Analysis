@@ -1,22 +1,18 @@
-# Supermarket Survival Strategy Analysis
+# Supermarket Survival Strategy Analysis 🛒  
 
-## Deskripsi
-Supermarket Survival Strategy Analysis adalah proyek analisis data yang bertujuan untuk mengidentifikasi faktor-faktor kunci yang dapat meningkatkan penjualan dan profit, guna mencegah penutupan gerai supermarket di tengah perubahan perilaku konsumen pasca pandemi. Analisis mencakup identifikasi kategori barang dengan tingkat penjualan tertinggi untuk memaksimalkan efisiensi pengadaan barang, metode pembayaran yang paling diminati untuk meningkatkan kenyamanan transaksi, serta faktor-faktor lain yang berkontribusi terhadap performa bisnis supermarket.
+## Overview  
+This project focuses on identifying key factors that drive sales and profit growth to prevent supermarket closures amidst shifting consumer behaviors post-pandemic. The analysis highlights:  
+- **High-performing product categories** to optimize inventory management.  
+- **Preferred payment methods** to enhance transaction convenience.  
+- Other critical factors contributing to overall business performance.  
 
-Hasil analisis ini dirancang untuk menjadi panduan strategis bagi divisi pengadaan barang dan divisi marketing dalam mengembangkan inovasi dan strategi bisnis yang berkelanjutan.
+The insights are designed to serve as a strategic guide for procurement and marketing teams in developing sustainable business innovations and strategies.  
 
-## Fitur
-Data preprocessing
-Exploratory Data Analysis
+## Features 🚀  
+- **Data Preprocessing**  
+- **Exploratory Data Analysis (EDA)**  
 
-## Tech Stack
-Python
-Pandas
-Kibana (untuk visualisasi)
-
-## Contact
-Untuk kritik, saran, dan pertanyaan silakan hubungi [LinkedIn](https://www.linkedin.com/in/azkiamudrikah10/)
-
-  
-
-
+## Tech Stack 🛠️  
+- **Python**: Data processing and analysis  
+- **Pandas**: Data manipulation  
+- **Kibana**: Interactive visualizations  
